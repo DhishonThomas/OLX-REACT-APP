@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OLX-REACT-APP/static/css/main.852ceeac.css",
+    "main.js": "/OLX-REACT-APP/static/js/main.50ef6b1d.js",
+    "index.html": "/OLX-REACT-APP/index.html",
+    "main.852ceeac.css.map": "/OLX-REACT-APP/static/css/main.852ceeac.css.map",
+    "main.50ef6b1d.js.map": "/OLX-REACT-APP/static/js/main.50ef6b1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.852ceeac.css",
+    "static/js/main.50ef6b1d.js"
+  ]
+}
